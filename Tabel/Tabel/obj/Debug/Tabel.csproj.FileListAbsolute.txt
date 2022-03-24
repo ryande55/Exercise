@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Tabel\Tabel\bin\Debug\Tabel.exe.config
+C:\Users\ASUS\source\repos\Tabel\Tabel\bin\Debug\Tabel.exe
+C:\Users\ASUS\source\repos\Tabel\Tabel\bin\Debug\Tabel.pdb
+C:\Users\ASUS\source\repos\Tabel\Tabel\obj\Debug\Tabel.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Tabel\Tabel\obj\Debug\Tabel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Tabel\Tabel\obj\Debug\Tabel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tabel\Tabel\obj\Debug\Tabel.exe
+C:\Users\ASUS\source\repos\Tabel\Tabel\obj\Debug\Tabel.pdb
